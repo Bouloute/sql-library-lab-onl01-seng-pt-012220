@@ -5,3 +5,5 @@ INSERT INTO books (title) VALUES ("Philosopher Stone"), ("Prisoner of Azkaban"),
 INSERT INTO characters (name) VALUES ("Harry"), ("Hermione"), ("Ron"), ("Malfoy"), ("Neville"), ("Dudley"), ("Voldemort"), ("Ginny");
 
 INSERT INTO subgenres (name) VALUES ("Children"), ("Fantasy");
+
+INSERT INTO authors (name) VALUES ("Tolkien"), ("J.K.Rollings");
